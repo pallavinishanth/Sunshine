@@ -5,3 +5,13 @@ Sunshine app provides 7-day forecast in the main screen. If you select on any pa
 Setting activity has options to change the location, change the temperature metrics and on/off option to allow notifications.
 
 OpenWeatherMap API - API key should be provided to access database.
+
+Install
+
+To install the app on your device, there are three ways possible:
+
+1.) Download the .apk file from the build directory and copy it on to your Android device and Install it.
+
+2.) Import the project into the Android Studio IDE and hit the play button to install the app via ADB.
+
+3.) Follow the commands to install the app via ADB using Command Prompt.
