@@ -4,7 +4,10 @@ Sunshine app provides 7-day forecast in the main screen. If you select on any pa
 
 Setting activity has options to change the location, change the temperature metrics and on/off option to allow notifications.
 
-OpenWeatherMap API - API key should be provided to access database.
+include the unique key for the build by adding the following line to [USER_HOME]/.gradle/gradle.properties
+
+MyOpenWeatherMapApiKey="<UNIQUE_API_KEY>"
+
 
 Install
 
