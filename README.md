@@ -8,7 +8,7 @@ Setting activity has options to change the location, change the temperature metr
 
 ### Installation
 
-To install the app on your device, there are three ways possible:
+To install the app on your device, there are three possible ways:
 
 1.) Download the .apk file from the build directory and copy it on to your Android device and Install it.
 
